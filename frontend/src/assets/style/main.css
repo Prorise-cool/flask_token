@@ -1,0 +1,4 @@
+/* src/assets/style/main.css */
+@tailwind base;     /* 包含normalize.css和基础样式重置 */
+@tailwind components; /* 组件类 (可用于自定义组件或插件) */
+@tailwind utilities;  /* 工具类 (核心功能类) */
